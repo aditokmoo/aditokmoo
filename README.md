@@ -1,1 +1,1 @@
-<img src="https://i.ibb.co/zshJz09/skills-4.png" alt="skills"/>
+<img src="https://i.ibb.co/XJPJw0Y/skills-5.png" alt="skills"/>
