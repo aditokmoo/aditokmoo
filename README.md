@@ -1,1 +1,5 @@
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwindcss,javascript,typescript,react,nextjs,nodejs,expressjs,java,go,mongodb,postgresql,firebase,git,docker,npm,yarn,redis,figma&theme=dark)](https://skillicons.dev)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=html&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=css&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=javascript&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=typescript&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
