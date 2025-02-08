@@ -1,1 +1,1 @@
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwindcss,javascript,typescript,react,nextjs,nodejs,expressjs,java,golang,mongodb,postgresql,firebase,git,bitbucket,jira,pivotaltracker,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwindcss,javascript,typescript,react,nextjs,nodejs,expressjs,java,go,mongodb,postgresql,firebase,git,nginx,npm,yarn,redis,figma&theme=dark)](https://skillicons.dev)
